@@ -19,16 +19,13 @@ I have used 10% of the whole FaceNet data for training and we have used Labeled 
 
 
 
-we have done 5 experiments as part of this project. 
+I have done 5 experiments as part of this project. 
 
-In this project we have used three popular mining strategies and a 2 default sampling techniques which constructs the mini batch with random sampling.
+In this project I have used three popular mining strategies and a 2 default sampling techniques which constructs the mini batch with random sampling.
 
 The random sampling method is implemented to make comparisons against other mining strategies.
 
-
-
 The three popular mining strategies that I have used here are Pairwise mining, Triplet mining and Doppelganger Mining.
-
 
 
 The Triplet Mining gives the best results(~93%), when compare to Pairwise(~90%) and Doppelganger Mining(~90%). 
